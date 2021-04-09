@@ -8,8 +8,6 @@ Joguinho onde você clica em um dos escudos dos times apresentados e ele é rend
 ## Layout web
 ![Web 1](https://github.com/pabloalvesdev/Manipulando_a_DOM_com_js/blob/master/assets/first.gif)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
