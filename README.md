@@ -14,7 +14,7 @@ Aplicação demonstrativa onde o usuário deve clicar em um dos escudos dos 4 ti
 - Javascript
 
 # Como executar o projeto
-É bem simples:
+É bem simples:<br />
 **Passo 1:** faça o download deste repositório na sua máquina.<br />
 **Passo 2:** Entre na pasta do repositório baixado em sua máquina.<br />
 **Passo 3:** Procure pelo arquivo "index.html", dê dois cliques e voilà.<br />
