@@ -23,4 +23,4 @@ Aplicação demonstrativa onde o usuário deve clicar em um dos escudos dos 4 ti
 
 Pablo Alves
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/pablo-alves-a40056203/
