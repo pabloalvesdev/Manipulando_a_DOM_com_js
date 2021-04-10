@@ -9,17 +9,15 @@ Aplicação demonstrativa onde o usuário deve clicar em um dos escudos dos 4 ti
 ![Web 1](https://github.com/pabloalvesdev/Manipulando_a_DOM_com_js/blob/master/assets/first.gif)
 
 # Tecnologias utilizadas
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+- HTML
+- CSS
+- Javascript
 
 # Como executar o projeto
 É bem simples:
-**Passo 1:** faça o download deste repositório na sua máquina.
-**Passo 2:** Entre na pasta do repositório baixado em sua máquina.
-**Passo 3:** Procure pelo arquivo "index.html", dê dois cliques e voilà.
+**Passo 1:** faça o download deste repositório na sua máquina.<br />
+**Passo 2:** Entre na pasta do repositório baixado em sua máquina.<br />
+**Passo 3:** Procure pelo arquivo "index.html", dê dois cliques e voilà.<br />
 
 # Autor
 
