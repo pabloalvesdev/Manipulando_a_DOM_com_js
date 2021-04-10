@@ -17,9 +17,9 @@ Aplicação demonstrativa onde o usuário deve clicar em um dos escudos dos 4 ti
 
 # Como executar o projeto
 É bem simples:
-### Passo 1: faça o download deste repositório na sua máquina.
-### Passo 2: Entre na pasta do repositório baixado em sua máquina.
-### Passo 3: Procure pelo arquivo "index.html", dê dois cliques e voilà.
+**Passo 1:** faça o download deste repositório na sua máquina.
+**Passo 2:** Entre na pasta do repositório baixado em sua máquina.
+**Passo 3:** Procure pelo arquivo "index.html", dê dois cliques e voilà.
 
 # Autor
 
