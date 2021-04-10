@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-Joguinho onde você clica em um dos escudos dos times apresentados e ele é renderizado na parte inferior.
+Aplicação demonstrativa onde o usuário deve clicar em um dos escudos dos 4 times apresentados: PSG, BARCELONA, CHELSEA ou FLAMENGO. A partir da escolha do usuário o time escolhido deverá ser renderizado na parte inferior. A aplicação foi desenvolvida, assim como a animação usando HTML, CSS e JS.
 
-## Layout web
+## Funcionamento
 ![Web 1](https://github.com/pabloalvesdev/Manipulando_a_DOM_com_js/blob/master/assets/first.gif)
 
 ## Modelo conceitual
